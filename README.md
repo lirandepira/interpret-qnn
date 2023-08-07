@@ -1,6 +1,6 @@
 # interpret-qnn
 
-**Quantum Local Interpreters: Explicability and Inexplicability in the Interpretation of Quantum Neural Networks**
+**Explicability and Inexplicability in the Interpretation of Quantum Neural Networks**
 
 *Lirandë Pira & Chris Ferrie*
 
