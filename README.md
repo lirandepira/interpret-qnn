@@ -1,6 +1,6 @@
 # interpret-qnn
 
-**On the interpetability of Quantum Neural Networks**
+**On the interpretability of Quantum Neural Networks**
 
 *Lirandë Pira & Chris Ferrie*
 
